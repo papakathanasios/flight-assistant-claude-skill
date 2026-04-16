@@ -1,0 +1,5 @@
+# Flight search reports
+reports/
+
+# macOS
+.DS_Store
